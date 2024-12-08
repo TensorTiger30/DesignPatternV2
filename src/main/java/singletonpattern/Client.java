@@ -36,7 +36,7 @@ public class Client {
 
         BillPughSingleton s5 = BillPughSingleton.getInstance();
 
-        s4.setData(100);
+        s5.setData(100);
         System.out.println("First instance data: " + s5.getData());
     }
 }
